@@ -12,7 +12,7 @@ const connectWallet = async () => {
     <main>
       <div className="h-screen flex">
         <div className="bg-slate-900 w-full h-20 flex items-center justify-between p-10">
-          <h1>aaaaaaaaaaaaaaaa</h1>
+          <h1>wazzaapppppp</h1>
         <button className="bg-slate-500 p-3 rounded" onClick={connectWallet}>{wallet ? wallet : " Connect Wallet" }</button>
         </div>
       </div>
